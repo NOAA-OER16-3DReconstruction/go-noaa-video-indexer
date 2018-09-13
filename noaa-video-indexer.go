@@ -1,3 +1,3 @@
 /// A package for doing stuff.
 ///
-package noaa-video-indexer
+package noaa_video_indexer
